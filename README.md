@@ -5,7 +5,7 @@ This project recreates the modern style UI of Mintlify with a focus on layout an
 
 ## 📸 Preview
 
-(Add a screenshot of your project here)
+![Project Preview](assets/preview_page.png)
 
 ---
 
