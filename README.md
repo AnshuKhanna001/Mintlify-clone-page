@@ -20,14 +20,12 @@ This project recreates the modern style UI of Mintlify with a focus on layout an
 ## Features
 
 * Modern SaaS landing page design
-* Fully responsive layout
 * Fixed blurred navigation bar
 * Hero section with background graphics
 * Company logos grid
 * Feature card sections
 * Enterprise feature section
 * Carousel-style showcase section
-* Call-to-action section
 * Multi-column footer
 
 ---
