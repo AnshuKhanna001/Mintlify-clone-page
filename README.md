@@ -49,24 +49,6 @@ mintlify-clone-page/
 
 ---
 
-## ⚙️ Installation
-
-1. Clone the repository
-
-```
-git clone https://github.com/yourusername/mintlify-clone.git
-```
-
-2. Open the project folder
-
-```
-cd mintlify-clone
-```
-
-3. Open `index.html` in your browser
-
----
-
 ## What I Learned
 
 * CSS Grid and Flexbox layouts
