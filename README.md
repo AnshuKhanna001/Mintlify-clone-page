@@ -40,8 +40,6 @@ mintlify-clone-page/
 ├── assets/
 │   ├── bg-dark.svg
 │   ├── hero-image-dark.svg
-│   ├── logos/
-│   └── icons/
 └── README.md
 ```
 
